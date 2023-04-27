@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
 
 interface ThemeInterface {
   colors: {
-    primary: string
+    primary: string,
   }
 }
 
